@@ -5,7 +5,7 @@ This repository is to share the submission for Coursera project for "Getting and
 
 
 ## CodeBook.md
-provides the details of the complete analysis including the context and data definitions
+provides the details of the complete analysis including the context and data definitions. The transformation rules have been detailed in the last section of the CodeBook.
 
 ## tidyData.txt
 is the final dataset generated after the analysis
