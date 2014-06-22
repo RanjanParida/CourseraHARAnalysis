@@ -14,7 +14,7 @@ As stated in the original study, a population of 30 volunteers has been studied 
 For each subject and activity, the original data set has multiple observations for a single feature. Through this analysis, we will be computing a mean value for mutiple observation of a feature and presenting it as a single observation for each subject, activity and the feature combination. e.g. Original Data has 203 observations for each feature for subject 2 - sitting. For these 203 observations, in "TidyData" dataset you would find only one mean value. This will reduce the 10299 Observation in the original dataset to 180 observations in the "TidyData.txt"
 
 Not knowing the context of using the information from the original dataset for further analysis, I have limited myself to defining the tidy data within the confines of the question. Also, given the level of opinion differences on the topic of wide vs. long data, I am not performing any further data re-structuring. Please refer to the discussion on the Course Page at: 
-***embed link*******
+https://class.coursera.org/getdata-004/forum/thread?thread_id=262
 
 ## Format
 "Tidy Data" is a text file with space delimiting as the data set did not have any string based columns that could have blank values. Each row in the file corresponds to a unique combination of Subject and Activity. All feature columns provide the mean value for that feature corresponding to the Subject-Activity combination.
